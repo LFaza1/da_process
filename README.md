@@ -9,13 +9,13 @@ This project analyzes customer churn patterns in a telecommunications company us
 - Matplotlib/Seaborn for visualization
 
 
-# Dataset Description
+## Dataset Description
 
-## Overview
+### Overview
 
 The dataset represents information about customers of a telecom service provider. Each row corresponds to a unique customer, with various attributes described in the dataset metadata.
 
-## Columns
+### Columns
 
 The dataset includes the following types of information:
 
@@ -65,7 +65,7 @@ The dataset includes the following types of information:
 
     - Number of dependents
 
-# Procedure for Analysis
+## Procedure for Analysis
 
 1. Preprocessing
 
@@ -97,7 +97,7 @@ The dataset includes the following types of information:
 
         - Report p-values and interpret the results.
 
-# Key Findings
+## Key Findings
 
 1. Contract Type Impact:
     - Month-to-month contracts show significantly higher churn rates
